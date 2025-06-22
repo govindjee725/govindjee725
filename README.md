@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindjee725&label=Profile%20views&color=0e75b6&style=flat" alt="govindjee725" /> </p>
 
-- 🔭 I’m currently Studying Computer Science [Market Mafiaa](https://marketmafiaa.com/)
+- 🔭 I’m currently Studying Computer Science.
 
 - 🌱 I’m currently learning **Machine Learning and Build Models**
 
