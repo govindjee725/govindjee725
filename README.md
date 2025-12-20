@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **govindjee725@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xKhoE02VsYQhkLaUmiLXxjtDV2gF5pep/view?usp=drive_link](https://drive.google.com/file/d/1xKhoE02VsYQhkLaUmiLXxjtDV2gF5pep/view?usp=drive_link)
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1xKhoE02VsYQhkLaUmiLXxjtDV2gF5pep/view?usp=drive_link)](https://drive.google.com/file/d/1W9N0zQ_QAGnjnNPWn9dr14pH-QXPm20K/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny😅**
 
