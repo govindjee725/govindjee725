@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning **Machine Learning and Build Models**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pearl-eta-72.vercel.app/](https://portfolio-pearl-eta-72.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-pearl-eta-72.vercel.app/](https://govind-one.vercel.app/)
 
 - 💬 Ask me about **MongoDB, Express, React.js, Node.js**
 
 - 📫 How to reach me **govindjee725@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1xKhoE02VsYQhkLaUmiLXxjtDV2gF5pep/view?usp=drive_link)](https://drive.google.com/file/d/1W9N0zQ_QAGnjnNPWn9dr14pH-QXPm20K/view?usp=sharing)
+- 📄 Know about my experiences [[Resume]([https://drive.google.com/file/d/1xKhoE02VsYQhkLaUmiLXxjtDV2gF5pep/view?usp=drive_link](https://drive.google.com/file/d/1nbLAbKo3SgRmPa28Zk55-lZsPSemPBZ1/view?usp=sharing))]
 
 - ⚡ Fun fact **I am Funny😅**
 
